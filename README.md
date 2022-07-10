@@ -1,7 +1,6 @@
-# SwordPistolVR in Unity
+# SwordPistolVR game in Unity
 
 SwordPistolVR game in Unity   
-
 
 <img src="https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG" width="750">
 
