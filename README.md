@@ -2,7 +2,7 @@
 
 SwordPistolVR game in Unity   
 
-![title-pic](https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG)
+![title-pic](https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG | width=100)
 <!--<p align="center"<img src="https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG" \><p>-->
 
 
