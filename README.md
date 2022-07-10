@@ -2,7 +2,8 @@
 
 SwordPistolVR game in Unity   
 
-![title-pic](https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG)
+<!--![title-pic](https://github.com/saha0073/SwordPistolVR/blob/main/Capture.PNG)-->
+
 
 This repo contains SwordPistolVR game which has been built in Unity3D using Oculus Integration Toolkit. This game is similar to popular Beat Saber game available in the Quest. In this game two types of cubes will be coming toward the player, and the player needs to either shoot or slice with the controllers, and the score will increase. [Ezy-Slice](https://github.com/DavidArayan/ezy-slice) has been used to create the slicing animation of the cube. 
 
