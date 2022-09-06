@@ -20,6 +20,6 @@ The`./Recordings` folder contains several recordings during the game play, like 
 * Please go to the IRONHEAD Games located within Assets folder and open the LobbyScene. 
 * Play the LobbyScene. After LobbyScene is loaded, the GameScene will start automatically.
 
-This project has been inspired by the VR Development course of [Tevfik](https://www.udemy.com/course/oculus-quest-development-with-unity/).
+This project has been inspired by the VR Development course of [Tevfik](https://www.udemy.com/course/oculus-quest-development-with-unity/). Happy Learning!
 
 
