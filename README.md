@@ -11,9 +11,10 @@ This repo contains SwordPistolVR game which has been built in Unity3D using Ocul
 * Tech Stack: C#
 * Packages: Oculus Integration Toolkit, [ezy-slice](https://github.com/DavidArayan/ezy-slice) 
 
-## Recording of playing SwordPistolVR in Quest2
-The`./Recordings` folder contains several recordings during the game play, like as shown below,
-<p align="center"><img src="https://github.com/saha0073/SwordPistolVR/blob/main/Recordings/SwordPistolVR10sec.gif" style="width:80%"\></p>
+## Recording of playing SwordPistolVR 
+The`./Recordings` folder contains several recordings during the game play. You can check the following youtube video below which shows a demo of playing the game in Oculus Quest 2
+
+[![Watch the video](https://yt-embed.live/embed?v=JTaPgmYTJr4)](https://www.youtube.com/watch?v=JTaPgmYTJr4 "Watch the video")
 
 ## To Run the Unity application
 * Clone this repo and open the project in Unity 19.
